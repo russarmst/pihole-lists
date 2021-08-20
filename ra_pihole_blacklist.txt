@@ -1,0 +1,11 @@
+# Title: RA custom Pihole blocklist
+#
+# Date: 20 August 2021 11:16:00 (UTC)
+# Number of unique domains: 1
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/russarmst/pihole_lists/main/ra_pihole_blacklist.txt
+#
+# ===============================================================
+
+ # [default]
+ 0.0.0.0 ad.doubleclick.net
