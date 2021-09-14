@@ -1,4 +1,4 @@
-# Title: RA custom Blockade blocklist
+# Title: RA custom Piholeblocklist
 #
 # Date: 20 August 2021 11:16:00 (UTC)
 # Number of unique domains: 1
