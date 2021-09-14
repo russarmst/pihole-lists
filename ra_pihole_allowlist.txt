@@ -1,13 +1,3 @@
-# Title: RA custom Pihole blocklist
-#
-# Date: 14 September 2021 14:05:00 (UTC)
-# Number of unique domains: 1
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/russarmst/pihole_lists/main/ra_pihole_allowlist.txt
-#
-# ===============================================================
-
-
 reminders-pa.googleapis.com
 gstaticadssl.l.google.com
 googleapis.l.google.com
